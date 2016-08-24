@@ -1,0 +1,20 @@
+{
+    "name": "Daily Programs",
+    "description": "Solutions to https://www.reddit.com/r/dailyprogrammer/wiki/challenges challenges",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5",
+        "squizlabs/php_codesniffer": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daily\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Daily\\Tests\\": "tests/"
+        }
+    }
+}

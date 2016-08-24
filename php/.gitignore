@@ -1,0 +1,5 @@
+**/vendor
+*.swp
+tests/coverage/
+phantomjsdriver.log
+FitNesseRoot/files/testResults
