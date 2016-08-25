@@ -9,12 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Daily\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Daily\\Tests\\": "tests/"
+            "C280\\": "easy_challenge280/"
         }
     }
 }
